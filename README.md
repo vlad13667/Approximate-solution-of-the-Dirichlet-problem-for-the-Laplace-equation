@@ -1,2 +1,3 @@
-# Approximate solution of the Dirichlet problem for the Laplace equation
+# Приближенное решение задачи Дирихле для уравнения Лапласа
+
  
